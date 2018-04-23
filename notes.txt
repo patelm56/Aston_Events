@@ -1,0 +1,5 @@
+Models:
+  - User
+  - Event
+  - Photo
+  - Favorite
